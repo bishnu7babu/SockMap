@@ -1,0 +1,7 @@
+/home/bishnu/Desktop/code/rust/rust_project/sockmap/target/debug/deps/libnum_integer-3a4aec43a2d9daab.rmeta: /home/bishnu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-integer-0.1.46/src/lib.rs /home/bishnu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-integer-0.1.46/src/roots.rs /home/bishnu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-integer-0.1.46/src/average.rs
+
+/home/bishnu/Desktop/code/rust/rust_project/sockmap/target/debug/deps/num_integer-3a4aec43a2d9daab.d: /home/bishnu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-integer-0.1.46/src/lib.rs /home/bishnu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-integer-0.1.46/src/roots.rs /home/bishnu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-integer-0.1.46/src/average.rs
+
+/home/bishnu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-integer-0.1.46/src/lib.rs:
+/home/bishnu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-integer-0.1.46/src/roots.rs:
+/home/bishnu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-integer-0.1.46/src/average.rs:

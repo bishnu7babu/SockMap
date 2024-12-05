@@ -1,0 +1,1 @@
+fn(std::collections::btree_map::Keys<'_, _, _>) -> std::collections::btree_map::Keys<'_, _, _> {<std::collections::btree_map::Keys<'_, _, _> as From<std::collections::btree_map::Keys<'_, _, _>>>::from}
